@@ -1,3 +1,2 @@
 ### Hi there 👋
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zeroruka&repo=zeroruka)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroruka&show_icons=true&theme=dark)
